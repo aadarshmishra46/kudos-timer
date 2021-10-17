@@ -1,3 +1,21 @@
+# Description
+A fresh react project, that shows the current time including seconds.
+Every second, the time should be updated.
+If the time is even number, background show be black.
+If the time is odd number, background show be white.
+
+# Deploy Link
+https://aadarshmishra46.github.io/kudos-timer/
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
