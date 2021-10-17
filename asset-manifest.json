@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kudos-timer/static/css/main.33d24ac4.chunk.css",
+    "main.js": "/kudos-timer/static/js/main.323b393e.chunk.js",
+    "main.js.map": "/kudos-timer/static/js/main.323b393e.chunk.js.map",
+    "runtime-main.js": "/kudos-timer/static/js/runtime-main.6809ba2f.js",
+    "runtime-main.js.map": "/kudos-timer/static/js/runtime-main.6809ba2f.js.map",
+    "static/js/2.20c497f4.chunk.js": "/kudos-timer/static/js/2.20c497f4.chunk.js",
+    "static/js/2.20c497f4.chunk.js.map": "/kudos-timer/static/js/2.20c497f4.chunk.js.map",
+    "static/js/3.f048861f.chunk.js": "/kudos-timer/static/js/3.f048861f.chunk.js",
+    "static/js/3.f048861f.chunk.js.map": "/kudos-timer/static/js/3.f048861f.chunk.js.map",
+    "index.html": "/kudos-timer/index.html",
+    "static/css/main.33d24ac4.chunk.css.map": "/kudos-timer/static/css/main.33d24ac4.chunk.css.map",
+    "static/js/2.20c497f4.chunk.js.LICENSE.txt": "/kudos-timer/static/js/2.20c497f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6809ba2f.js",
+    "static/js/2.20c497f4.chunk.js",
+    "static/css/main.33d24ac4.chunk.css",
+    "static/js/main.323b393e.chunk.js"
+  ]
+}

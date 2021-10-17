@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,qBAAuB,CACvB,UACF,CACA,MACE,qBAAuB,CACvB,UACF,CAEA,GACE,cAAe,CAChB,gBACD","file":"main.33d24ac4.chunk.css","sourcesContent":[".odd{\n  background-color: white;\n  color: black;\n}\n.even{\n  background-color: black;\n  color: white;\n}\n\nh1{\n  font-size: 35px;\n margin-top: 100px;\n}"]}
